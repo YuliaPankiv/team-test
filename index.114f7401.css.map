@@ -1,1 +1,0 @@
-{"mappings":"AEAA","sources":["index.114f7401.css","src/sass/index.scss","src/sass/_header.scss"],"sourcesContent":[".wrapper {\n  background-color: red;\n}\n\n/*# sourceMappingURL=index.114f7401.css.map */\n","@import \"./_header\";",".wrapper{\n    background-color: red;\n}"],"names":[],"version":3,"file":"index.114f7401.css.map"}
